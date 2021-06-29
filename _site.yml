@@ -1,0 +1,20 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "Oceane Roux"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-map
+      href: geog13.html
+    - text: "CV"
+      icon: fa-address-card
+      href: cv.html
+  right:
+    - icon: fa-github
+      href: https://github.com/oceanerouxx
+output:
+  html_document:
+    theme: journal
