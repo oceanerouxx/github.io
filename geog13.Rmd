@@ -10,3 +10,7 @@ In the summer of 2021 I took a GIS course called Introduction to Programming for
 - In this assignment I built a static users site with GitHub Pages.
 - I learned how to navigate RStudio and use some basic functions to build a website.
 - I was able to resolve error messages on my own to design a website to my preference but hope to continue improving my skills.
+
+## [Data wrangling](https://oceanerouxx.github.io/geog-13-labs/lab-02.html)
+
+- Utilized data manipulation skills to visualize real time COVID-19 data obtained from the New York Times
