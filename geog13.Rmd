@@ -14,3 +14,17 @@ In the summer of 2021 I took a GIS course called Introduction to Programming for
 ## [Data wrangling](https://oceanerouxx.github.io/geog-13-labs/lab-02.html)
 
 - Utilized data manipulation skills to visualize real time COVID-19 data obtained from the New York Times
+- Learned how to create faceted plots and ggplots to show COVID-19 trends US states
+- Created a 7-day rolling mean of cases in New York, California, Louisiana, and Florida
+
+## [Projections, Distances, and Mapping](https://oceanerouxx.github.io/geog-13-labs/lab-03.html)
+
+- Manipulated data projections and spatial geometries
+- Used st_distance to calculate the distance between US cities and borders of states and countries
+- Learned the properties of sf, sfc, and sfg feature & objects
+
+## [Tesselations, Spatial Joins, and Point-in-Polygon](https://oceanerouxx.github.io/geog-13-labs/lab-04.html)
+
+- Visualized the distribution of dams and their purposes across the United States
+- Learned how to use tessellation to simplify surfaces and geometry simplification to accelerate computing process
+- Created functions and point-in-polygon counts to analyze point data
